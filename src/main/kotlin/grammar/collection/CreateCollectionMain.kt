@@ -1,4 +1,4 @@
-package collection
+package grammar.collection
 
 fun main(args: Array<String>) {
     // ArrayList
