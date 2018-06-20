@@ -1,4 +1,4 @@
-package lambda.collections
+package grammar.collection.handle
 
 /**
  * Created by Qoo

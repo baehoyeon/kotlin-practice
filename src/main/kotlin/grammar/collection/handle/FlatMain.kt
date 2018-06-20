@@ -1,4 +1,4 @@
-package lambda.collections
+package grammar.collection.handle
 
 fun main(args: Array<String>) {
     val strs = listOf("qoo", "pooh")
